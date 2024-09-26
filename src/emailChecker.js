@@ -1,3 +1,5 @@
+"use strict";
+
 // Définition d'une exception personnalisée
 class EmailValidationError extends Error {
     constructor(message) {

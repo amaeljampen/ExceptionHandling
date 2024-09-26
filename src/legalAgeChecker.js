@@ -1,3 +1,5 @@
+"use strict";
+
 // Définition d'une exception personnalisée
 class AgeValidationError extends Error {
     constructor(message) {
